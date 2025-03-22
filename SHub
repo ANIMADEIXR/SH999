@@ -1,3 +1,1 @@
-local player = game.Players.LocalPlayer
- 
-player:Kick("Acreditou mesmo que eu ia dar meu script? KK")
+local player
